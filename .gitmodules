@@ -2,7 +2,7 @@
   path = UFSATM
   #url = https://github.com/NOAA-EMC/ufsatm
   #branch = develop
-  url = https://github.com/ChristianBoyer-NOAA/ufs-weather-model
+  url = https://github.com/ChristianBoyer-NOAA/ufsatm
   branch = coldpool-leonard-3dtte_edmf-final
 [submodule "WW3"]
   path = WW3
